@@ -86,7 +86,7 @@ Using AI to speed up learning, research and automation.
 
 <p align="left">
   <a href="https://tryhackme.com/p/farhan.hussain">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%204%25%20%7C%20100%2B%20rooms-212C42?style=for-the-badge&logo=tryhackme" alt="TryHackMe" />
+    <img src="https://cdn-images.tryhackme.com/public-profile/farhan.hussain/badge-dark-0dda80054fe2.png" alt="farhan.hussain's TryHackMe badge" width="400" />
   </a>
 </p>
 
