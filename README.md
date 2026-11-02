@@ -1,13 +1,14 @@
 <h1 align="center">Welcome to my profile</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=00E676&center=true&vCenter=true&width=560&lines=Aspiring+Penetration+Tester;Web+%26+API+Security;CTF+Player+%7C+TryHackMe+Top+4%25;Building+security+tooling+in+Python" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=00E676&center=true&vCenter=true&width=560&lines=Penetration+Tester+%7C+CPENT+Certified;Web+%26+API+Security;CTF+Player+%7C+TryHackMe+Top+4%25;Building+security+tooling+in+Python" alt="Typing animation" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/thecyberfarhan?style=for-the-badge&logo=github&color=111111" alt="Followers" />
   <img src="https://img.shields.io/github/stars/thecyberfarhan?style=for-the-badge&logo=github&color=111111" alt="Stars" />
   <img src="https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/EC--Council-CPENT%20Certified-E31837?style=for-the-badge" alt="EC-Council CPENT" />
   <img src="https://img.shields.io/badge/Linux-Daily%20Driver-black?style=for-the-badge&logo=linux" alt="Linux" />
 </p>
 
@@ -23,12 +24,12 @@ $ whoami
 Farhan
 
 $ cat about.txt
-Web Application & API Penetration Tester
-Learning by breaking things in labs, documenting the process,
+Web Application & API Penetration Tester | CPENT Certified
+Breaking things in labs, documenting the process,
 and building automation that makes security workflows faster.
 ```
 
-I'm a university student learning offensive security through hands-on labs and writeups. My goal is a first role as a professional penetration tester.
+I'm a CPENT-certified penetration tester focused on web and API security. I sharpen my skills through hands-on labs, document my methodology in public writeups, and build Python tooling to speed up security workflows.
 
 ## Current focus
 
@@ -113,7 +114,7 @@ Using AI to speed up learning, research and automation.
 [ ] Publish 50+ writeups
 [ ] Learn Active Directory attacks
 [ ] Contribute to open source
-[ ] Land first cybersecurity role
+[ ] Land a penetration testing role
 ```
 
 ## Connect
