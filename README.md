@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CPENT-Certified%20Penetration%20Testing%20Professional-E31837?style=flat-square&labelColor=0d1117" alt="EC-Council CPENT Certified" />
-  <a href="https://tryhackme.com/p/farhan.hussain"><img src="https://img.shields.io/badge/TryHackMe-Top%204%25-00E676?style=flat-square&labelColor=0d1117&logo=tryhackme&logoColor=white" alt="TryHackMe Top 4%" /></a>
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20API%20Security-00E676?style=flat-square&labelColor=0d1117&logo=owasp&logoColor=white" alt="Focus Web & API Security" />
+  <img src="assets/badges/cpent-certified-penetration-testing-professional.svg" alt="CPENT Certified Penetration Testing Professional" />
+  <a href="https://tryhackme.com/p/farhan.hussain"><img src="assets/badges/tryhackme-top-4.svg" alt="TryHackMe Top 4%" /></a>
+  <img src="assets/badges/focus-web-api-security.svg" alt="Focus Web & API Security" />
 </p>
 
 I'm a CPENT-certified penetration tester focused on web and API security. I sharpen my skills in hands-on labs, document my methodology in public writeups, and build Python tooling to speed up security workflows.
@@ -17,26 +17,26 @@ I'm a CPENT-certified penetration tester focused on web and API security. I shar
 ## Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Automation-00E676?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python Automation" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-00E676?style=flat-square&labelColor=0d1117&logo=gnubash&logoColor=white" alt="Bash Scripting" />
-  <img src="https://img.shields.io/badge/Linux-Daily%20driver-00E676?style=flat-square&labelColor=0d1117&logo=linux&logoColor=white" alt="Linux Daily driver" />
-  <img src="https://img.shields.io/badge/Git-Version%20control-00E676?style=flat-square&labelColor=0d1117&logo=git&logoColor=white" alt="Git Version control" />
-  <img src="https://img.shields.io/badge/Docker-Containers-00E676?style=flat-square&labelColor=0d1117&logo=docker&logoColor=white" alt="Docker Containers" />
-  <img src="https://img.shields.io/badge/Nmap-Recon-00E676?style=flat-square&labelColor=0d1117&logo=nmap&logoColor=white" alt="Nmap Recon" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20testing-00E676?style=flat-square&labelColor=0d1117&logo=portswigger&logoColor=white" alt="Burp Suite Web testing" />
-  <img src="https://img.shields.io/badge/Metasploit-Exploitation-00E676?style=flat-square&labelColor=0d1117&logo=metasploit&logoColor=white" alt="Metasploit Exploitation" />
-  <img src="https://img.shields.io/badge/Wireshark-Network-00E676?style=flat-square&labelColor=0d1117&logo=wireshark&logoColor=white" alt="Wireshark Network" />
-  <img src="https://img.shields.io/badge/ffuf-Fuzzing-00E676?style=flat-square&labelColor=0d1117" alt="ffuf Fuzzing" />
-  <img src="https://img.shields.io/badge/Gobuster-Enumeration-00E676?style=flat-square&labelColor=0d1117" alt="Gobuster Enumeration" />
-  <img src="https://img.shields.io/badge/SQLMap-SQL%20injection-00E676?style=flat-square&labelColor=0d1117" alt="SQLMap SQL injection" />
-  <img src="https://img.shields.io/badge/Hydra-Brute%20force-00E676?style=flat-square&labelColor=0d1117" alt="Hydra Brute force" />
-  <img src="https://img.shields.io/badge/Nuclei-Scanning-00E676?style=flat-square&labelColor=0d1117" alt="Nuclei Scanning" />
+  <img src="assets/badges/python-automation.svg" alt="Python Automation" />
+  <img src="assets/badges/bash-scripting.svg" alt="Bash Scripting" />
+  <img src="assets/badges/linux-daily-driver.svg" alt="Linux Daily driver" />
+  <img src="assets/badges/git-version-control.svg" alt="Git Version control" />
+  <img src="assets/badges/docker-containers.svg" alt="Docker Containers" />
+  <img src="assets/badges/nmap-recon.svg" alt="Nmap Recon" />
+  <img src="assets/badges/burp-suite-web-testing.svg" alt="Burp Suite Web testing" />
+  <img src="assets/badges/metasploit-exploitation.svg" alt="Metasploit Exploitation" />
+  <img src="assets/badges/wireshark-network.svg" alt="Wireshark Network" />
+  <img src="assets/badges/ffuf-fuzzing.svg" alt="ffuf Fuzzing" />
+  <img src="assets/badges/gobuster-enumeration.svg" alt="Gobuster Enumeration" />
+  <img src="assets/badges/sqlmap-sql-injection.svg" alt="SQLMap SQL injection" />
+  <img src="assets/badges/hydra-brute-force.svg" alt="Hydra Brute force" />
+  <img src="assets/badges/nuclei-scanning.svg" alt="Nuclei Scanning" />
 </p>
 
 ## Proof of work
 
 <p align="left">
-  <a href="https://thecyberfarhan.github.io"><img src="https://img.shields.io/badge/TryHackMe-View%20live%20stats-00E676?style=flat-square&labelColor=0d1117&logo=tryhackme&logoColor=white" alt="TryHackMe View live stats" /></a>
+  <a href="https://thecyberfarhan.github.io"><img src="assets/badges/tryhackme-view-live-stats.svg" alt="TryHackMe View live stats" /></a>
 </p>
 
 - Top 4% on TryHackMe, 100+ rooms completed
@@ -69,12 +69,12 @@ I'm a CPENT-certified penetration tester focused on web and API security. I shar
 ## Get in touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cyber-farhan-hussain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn Connect" /></a>
-  <a href="https://github.com/thecyberfarhan"><img src="https://img.shields.io/badge/GitHub-thecyberfarhan-00E676?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub thecyberfarhan" /></a>
-  <a href="https://tryhackme.com/p/farhan.hussain"><img src="https://img.shields.io/badge/TryHackMe-farhan.hussain-00E676?style=flat-square&labelColor=0d1117&logo=tryhackme&logoColor=white" alt="TryHackMe farhan.hussain" /></a>
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="https://img.shields.io/badge/Writeups-37%20published-00E676?style=flat-square&labelColor=0d1117&logo=gitbook&logoColor=white" alt="Writeups 37 published" /></a>
-  <a href="https://thecyberfarhan.github.io"><img src="https://img.shields.io/badge/Live%20page-thecyberfarhan.github.io-00E676?style=flat-square&labelColor=0d1117&logo=githubpages&logoColor=white" alt="Live page thecyberfarhan.github.io" /></a>
-  <img src="https://img.shields.io/badge/Discord-farhan__31384-5865F2?style=flat-square&labelColor=0d1117&logo=discord&logoColor=white" alt="Discord farhan_31384" />
+  <a href="https://www.linkedin.com/in/cyber-farhan-hussain/"><img src="assets/badges/linkedin-connect.svg" alt="LinkedIn Connect" /></a>
+  <a href="https://github.com/thecyberfarhan"><img src="assets/badges/github-thecyberfarhan.svg" alt="GitHub thecyberfarhan" /></a>
+  <a href="https://tryhackme.com/p/farhan.hussain"><img src="assets/badges/tryhackme-farhan-hussain.svg" alt="TryHackMe farhan.hussain" /></a>
+  <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="assets/badges/writeups-37-published.svg" alt="Writeups 37 published" /></a>
+  <a href="https://thecyberfarhan.github.io"><img src="assets/badges/live-page-thecyberfarhan-github-io.svg" alt="Live page thecyberfarhan.github.io" /></a>
+  <img src="assets/badges/discord-farhan-31384.svg" alt="Discord farhan_31384" />
 </p>
 
 <p align="center">
