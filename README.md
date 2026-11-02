@@ -17,15 +17,18 @@ I'm a CPENT-certified penetration tester focused on web and API security. I shar
 ## Arsenal
 
 <p align="center">
-  <img src="assets/badges/python-automation.svg" alt="Python Automation" />
-  <img src="assets/badges/bash-scripting.svg" alt="Bash Scripting" />
-  <img src="assets/badges/linux-daily-driver.svg" alt="Linux Daily driver" />
-  <img src="assets/badges/git-version-control.svg" alt="Git Version control" />
-  <img src="assets/badges/docker-containers.svg" alt="Docker Containers" />
+  <img src="assets/badges/icon-python.svg" alt="Python" title="Python" height="28" />
+  <img src="assets/badges/icon-bash.svg" alt="Bash" title="Bash" height="28" />
+  <img src="assets/badges/icon-linux.svg" alt="Linux" title="Linux" height="28" />
+  <img src="assets/badges/icon-git.svg" alt="Git" title="Git" height="28" />
+  <img src="assets/badges/icon-docker.svg" alt="Docker" title="Docker" height="28" />
+  <img src="assets/badges/icon-wireshark.svg" alt="Wireshark" title="Wireshark" height="28" />
+  <img src="assets/badges/icon-burp-suite.svg" alt="Burp Suite" title="Burp Suite" height="28" />
+  <img src="assets/badges/icon-metasploit.svg" alt="Metasploit" title="Metasploit" height="28" />
+</p>
+
+<p align="center">
   <img src="assets/badges/nmap-recon.svg" alt="Nmap Recon" />
-  <img src="assets/badges/burp-suite-web-testing.svg" alt="Burp Suite Web testing" />
-  <img src="assets/badges/metasploit-exploitation.svg" alt="Metasploit Exploitation" />
-  <img src="assets/badges/wireshark-network.svg" alt="Wireshark Network" />
   <img src="assets/badges/ffuf-fuzzing.svg" alt="ffuf Fuzzing" />
   <img src="assets/badges/gobuster-enumeration.svg" alt="Gobuster Enumeration" />
   <img src="assets/badges/sqlmap-sql-injection.svg" alt="SQLMap SQL injection" />
@@ -69,12 +72,12 @@ I'm a CPENT-certified penetration tester focused on web and API security. I shar
 ## Get in touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cyber-farhan-hussain/"><img src="assets/badges/linkedin-connect.svg" alt="LinkedIn Connect" /></a>
-  <a href="https://github.com/thecyberfarhan"><img src="assets/badges/github-thecyberfarhan.svg" alt="GitHub thecyberfarhan" /></a>
-  <a href="https://tryhackme.com/p/farhan.hussain"><img src="assets/badges/tryhackme-farhan-hussain.svg" alt="TryHackMe farhan.hussain" /></a>
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="assets/badges/writeups-37-published.svg" alt="Writeups 37 published" /></a>
-  <a href="https://thecyberfarhan.github.io"><img src="assets/badges/live-page-thecyberfarhan-github-io.svg" alt="Live page thecyberfarhan.github.io" /></a>
-  <img src="assets/badges/discord-farhan-31384.svg" alt="Discord farhan_31384" />
+  <a href="https://www.linkedin.com/in/cyber-farhan-hussain/" title="LinkedIn"><img src="assets/badges/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" height="28" /></a>
+  <a href="https://github.com/thecyberfarhan" title="GitHub"><img src="assets/badges/icon-github.svg" alt="GitHub" title="GitHub" height="28" /></a>
+  <a href="https://tryhackme.com/p/farhan.hussain" title="TryHackMe: farhan.hussain"><img src="assets/badges/icon-tryhackme.svg" alt="TryHackMe: farhan.hussain" title="TryHackMe: farhan.hussain" height="28" /></a>
+  <a href="https://github.com/thecyberfarhan/CTF-Writeups" title="CTF writeups"><img src="assets/badges/icon-writeups.svg" alt="CTF writeups" title="CTF writeups" height="28" /></a>
+  <a href="https://thecyberfarhan.github.io" title="Live page"><img src="assets/badges/icon-live-page.svg" alt="Live page" title="Live page" height="28" /></a>
+  <img src="assets/badges/icon-discord.svg" alt="Discord: farhan_31384" title="Discord: farhan_31384" height="28" />
 </p>
 
 <p align="center">
