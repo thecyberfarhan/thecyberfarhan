@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="assets/panels/hero.svg" alt="Farhan, penetration tester, CPENT certified" width="880" />
+  <img src="assets/panels/hero.svg" alt="Farhan, penetration tester, CPENT certified" width="880" height="320" />
 </p>
 
 <p align="center">
-  <img src="assets/panels/about.svg" alt="About: web and API penetration testing, hands-on labs and writeups, Python tooling" width="880" />
+  <img src="assets/panels/about.svg" alt="About: web and API penetration testing, hands-on labs and writeups, Python tooling" width="880" height="252" />
 </p>
 
 <p align="center">
-  <img src="assets/panels/tools.svg" alt="Tools and techniques: Kali, Linux, Windows, Python, Bash, PowerShell, JavaScript, SQL, Docker, GitHub; Nmap, Nessus, Burp Suite, OWASP ZAP, Metasploit, BloodHound, Impacket, Hashcat, Wireshark; OWASP Top 10, Kerberoasting, privilege escalation, pivoting" width="880" />
+  <img src="assets/panels/tools.svg" alt="Tools and techniques: Kali, Linux, Windows, Python, Bash, PowerShell, JavaScript, SQL, Docker, GitHub; Nmap, Nessus, Burp Suite, OWASP ZAP, Metasploit, BloodHound, Impacket, Hashcat, Wireshark; OWASP Top 10, Kerberoasting, privilege escalation, pivoting" width="880" height="822" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="assets/panels/proof.svg" alt="Proof of work: TryHackMe top 4 percent, 100 plus rooms, 37 writeups" width="880" /></a>
+  <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="assets/panels/proof.svg" alt="Proof of work: TryHackMe top 4 percent, 100 plus rooms, 37 writeups" width="880" height="176" /></a>
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/panels/contributions.svg" alt="3D contribution skyline: 72 contributions in the last year" width="880" />
+  <img src="assets/panels/contributions.svg" alt="3D contribution skyline: 72 contributions in the last year" width="880" height="330" />
 </p>
 
 <p align="center">
-  <img src="assets/panels/journey.svg" alt="Journey as a branching timeline: Hack The Box, CTF-Writeups and TryHackMe ongoing; CPENT completed; Python security tools planned" width="880" />
+  <img src="assets/panels/journey.svg" alt="Journey as a branching timeline: Hack The Box, CTF-Writeups and TryHackMe ongoing; CPENT completed; Python security tools planned" width="880" height="420" />
 </p>
 
 <p align="center">
