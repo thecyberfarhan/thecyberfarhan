@@ -90,6 +90,7 @@ Using AI to speed up learning, research and automation.
   </a>
 </p>
 
+- Live TryHackMe stats: **[thecyberfarhan.github.io](https://thecyberfarhan.github.io)**
 - Top 4% on TryHackMe, 100+ rooms completed
 - 37 published writeups: 32 TryHackMe and 5 Hack The Box
 - All of them live in **[CTF-Writeups](https://github.com/thecyberfarhan/CTF-Writeups)**
