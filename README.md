@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/badges/cpent-certified-penetration-testing-professional.svg" alt="CPENT Certified Penetration Testing Professional" height="36" />
+  <img src="assets/cpent-badge.png" alt="EC-Council CPENT: Certified Penetration Testing Professional" width="150" />
+</p>
+
+<p align="center">
   <a href="https://tryhackme.com/p/farhan.hussain"><img src="assets/badges/tryhackme-top-4.svg" alt="TryHackMe Top 4%" height="36" /></a>
   <img src="assets/badges/focus-web-api-security.svg" alt="Focus Web & API Security" height="36" />
 </p>
