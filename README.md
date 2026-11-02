@@ -7,11 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/panels/pipeline.svg" alt="How I test: recon, enumeration, exploitation, post-exploitation, reporting" width="880" />
-</p>
-
-<p align="center">
-  <img src="assets/panels/tools.svg" alt="Tools: Python, Bash, Linux, Kali, Windows, Git, GitHub, Docker, Markdown, Nmap, RustScan, Masscan, Amass, Subfinder, Nuclei, Burp Suite, ffuf, Gobuster, SQLMap, Nikto, Postman, Metasploit, Hydra, John the Ripper, Hashcat, Wireshark, Netcat" width="880" />
+  <img src="assets/panels/tools.svg" alt="Tools and techniques: Kali, Linux, Windows, Python, Bash, PowerShell, JavaScript, SQL, Docker, GitHub; Nmap, Nessus, Burp Suite, OWASP ZAP, Metasploit, BloodHound, Impacket, Hashcat, Wireshark; OWASP Top 10, Kerberoasting, privilege escalation, pivoting" width="880" />
 </p>
 
 <p align="center">
@@ -37,11 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/panels/journey.svg" alt="Journey as a branching timeline: CTF-Writeups, Hack The Box and TryHackMe ongoing; CPENT completed; profile README merged; security tools planned" width="880" />
-</p>
-
-<p align="center">
-  <img src="assets/panels/mission.svg" alt="Mission 2026 goals" width="880" />
+  <img src="assets/panels/journey.svg" alt="Journey as a branching timeline: Hack The Box, CTF-Writeups and TryHackMe ongoing; CPENT completed; Python security tools planned" width="880" />
 </p>
 
 <p align="center">
