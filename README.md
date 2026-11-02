@@ -85,12 +85,9 @@ Using AI to speed up learning, research and automation.
 ## Labs and writeups
 
 <p align="left">
-  <a href="https://tryhackme.com/p/farhan.hussain">
-    <img src="https://cdn-images.tryhackme.com/public-profile/farhan.hussain/badge-dark-0dda80054fe2.png" alt="farhan.hussain's TryHackMe badge" width="400" />
-  </a>
+  <a href="https://thecyberfarhan.github.io"><img src="https://img.shields.io/badge/TryHackMe-View%20live%20stats-212C42?style=for-the-badge&logo=tryhackme" alt="Live TryHackMe stats" /></a>
 </p>
 
-- Live TryHackMe stats: **[thecyberfarhan.github.io](https://thecyberfarhan.github.io)**
 - Top 4% on TryHackMe, 100+ rooms completed
 - 37 published writeups: 32 TryHackMe and 5 Hack The Box
 - All of them live in **[CTF-Writeups](https://github.com/thecyberfarhan/CTF-Writeups)**
