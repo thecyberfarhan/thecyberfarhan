@@ -85,7 +85,7 @@ Using AI to speed up learning, research and automation.
 
 <p align="left">
   <a href="https://tryhackme.com/p/farhan.hussain">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/farhan.hussain.png" alt="TryHackMe badge" />
+    <img src="https://img.shields.io/badge/TryHackMe-Top%204%25%20%7C%20100%2B%20rooms-212C42?style=for-the-badge&logo=tryhackme" alt="TryHackMe" />
   </a>
 </p>
 
@@ -96,8 +96,8 @@ Using AI to speed up learning, research and automation.
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thecyberfarhan&show_icons=true&hide_border=true&theme=transparent" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecyberfarhan&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecyberfarhan&theme=github_dark" alt="GitHub card" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecyberfarhan&theme=github_dark" alt="GitHub card" />
 </p>
 
 <p align="center">
