@@ -97,11 +97,10 @@ Using AI to speed up learning, research and automation.
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecyberfarhan&theme=github_dark" alt="GitHub card" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecyberfarhan&theme=github_dark" alt="GitHub card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecyberfarhan&hide_border=true&background=00000000" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecyberfarhan&theme=github-dark&hide_border=true" alt="Streak" />
 </p>
 
 ## 2026 objectives
