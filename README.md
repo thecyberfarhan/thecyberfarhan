@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/panels/tools.svg" alt="Tools: Python, Bash, Linux, Git, Docker, Kali, Nmap, RustScan, Masscan, Amass, Subfinder, Nuclei, Burp Suite, ffuf, Gobuster, SQLMap, Nikto, Postman, Metasploit, Hydra, John the Ripper, Hashcat, Wireshark, Netcat" width="880" />
+  <img src="assets/panels/tools.svg" alt="Tools: Python, Bash, Linux, Kali, Windows, Git, GitHub, Docker, Markdown, Nmap, RustScan, Masscan, Amass, Subfinder, Nuclei, Burp Suite, ffuf, Gobuster, SQLMap, Nikto, Postman, Metasploit, Hydra, John the Ripper, Hashcat, Wireshark, Netcat" width="880" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/panels/journey.svg" alt="Journey: joined GitHub May 2026, TryHackMe, CPENT certified, 37 writeups, next goals" width="880" />
+  <img src="assets/panels/journey.svg" alt="Journey as a branching timeline: CTF-Writeups, Hack The Box and TryHackMe ongoing; CPENT completed; profile README merged; security tools planned" width="880" />
 </p>
 
 <p align="center">
