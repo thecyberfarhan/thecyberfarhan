@@ -1,68 +1,26 @@
-<h1 align="center">Welcome to my profile</h1>
-
 <p align="center">
-  <img src="assets/cpent-badge.png" alt="EC-Council CPENT: Certified Penetration Testing Professional" width="150" />
-</p>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/farhan.hussain"><img src="assets/badges/tryhackme-top-4.svg" alt="TryHackMe Top 4%" height="36" /></a>
-  <img src="assets/badges/focus-web-api-security.svg" alt="Focus Web & API Security" height="36" />
+  <img src="assets/panels/hero.svg" alt="Farhan, penetration tester, EC-Council CPENT certified" width="880" />
 </p>
 
 I'm a CPENT-certified penetration tester focused on web and API security. I sharpen my skills in hands-on labs, document my methodology in public writeups, and build Python tooling to speed up security workflows.
 
----
-
-## Arsenal
-
 <p align="center">
-  <img src="assets/badges/icon-python.svg" alt="Python" title="Python" height="36" />
-  <img src="assets/badges/icon-bash.svg" alt="Bash" title="Bash" height="36" />
-  <img src="assets/badges/icon-linux.svg" alt="Linux" title="Linux" height="36" />
-  <img src="assets/badges/icon-git.svg" alt="Git" title="Git" height="36" />
-  <img src="assets/badges/icon-docker.svg" alt="Docker" title="Docker" height="36" />
-  <img src="assets/badges/icon-wireshark.svg" alt="Wireshark" title="Wireshark" height="36" />
-  <img src="assets/badges/icon-burp-suite.svg" alt="Burp Suite" title="Burp Suite" height="36" />
-  <img src="assets/badges/icon-metasploit.svg" alt="Metasploit" title="Metasploit" height="36" />
+  <img src="assets/panels/arsenal.svg" alt="Arsenal: Python, Bash, Linux, Git, Docker, Wireshark, Burp Suite, Metasploit, Nmap, ffuf, Gobuster, SQLMap, Hydra, Nuclei" width="880" />
 </p>
 
 <p align="center">
-  <img src="assets/badges/nmap-recon.svg" alt="Nmap Recon" height="36" />
-  <img src="assets/badges/ffuf-fuzzing.svg" alt="ffuf Fuzzing" height="36" />
-  <img src="assets/badges/gobuster-enumeration.svg" alt="Gobuster Enumeration" height="36" />
-  <img src="assets/badges/sqlmap-sql-injection.svg" alt="SQLMap SQL injection" height="36" />
-  <img src="assets/badges/hydra-brute-force.svg" alt="Hydra Brute force" height="36" />
-  <img src="assets/badges/nuclei-scanning.svg" alt="Nuclei Scanning" height="36" />
+  <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="assets/panels/proof.svg" alt="Proof of work: TryHackMe top 4 percent, 100 plus rooms, 37 writeups. Open CTF-Writeups." width="880" /></a>
 </p>
-
-## Proof of work
-
-<p align="left">
-  <a href="https://thecyberfarhan.github.io"><img src="assets/badges/tryhackme-view-live-stats.svg" alt="TryHackMe View live stats" height="36" /></a>
-</p>
-
-- Top 4% on TryHackMe, 100+ rooms completed
-- 37 published writeups: 32 TryHackMe and 5 Hack The Box
-- All of them live in the CTF-Writeups repository:
-
-<p align="left">
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="assets/badges/ctf-writeups-open.svg" alt="Open CTF-Writeups" height="36" /></a>
-</p>
-
-## Mission 2026
-
-- Reach the top 1% on TryHackMe and complete 150+ rooms
-- Publish 50+ writeups, written like professional pentest reports
-- Build and release security tools in Python
-- Land a penetration testing role
-
-## Get in touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cyber-farhan-hussain/" title="LinkedIn"><img src="assets/badges/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" height="36" /></a>
-  <a href="https://github.com/thecyberfarhan" title="GitHub"><img src="assets/badges/icon-github.svg" alt="GitHub" title="GitHub" height="36" /></a>
-  <a href="https://tryhackme.com/p/farhan.hussain" title="TryHackMe: farhan.hussain"><img src="assets/badges/icon-tryhackme.svg" alt="TryHackMe: farhan.hussain" title="TryHackMe: farhan.hussain" height="36" /></a>
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups" title="CTF writeups"><img src="assets/badges/icon-writeups.svg" alt="CTF writeups" title="CTF writeups" height="36" /></a>
-  <a href="https://thecyberfarhan.github.io" title="Live page"><img src="assets/badges/icon-live-page.svg" alt="Live page" title="Live page" height="36" /></a>
-  <img src="assets/badges/icon-discord.svg" alt="Discord: farhan_31384" title="Discord: farhan_31384" height="36" />
+  <img src="assets/panels/mission.svg" alt="Mission 2026: top 1 percent on TryHackMe, 50 plus writeups, build security tools in Python, land a penetration testing role" width="880" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cyber-farhan-hussain/"><img src="assets/panels/connect-linkedin.svg" alt="LinkedIn" height="104" /></a>
+  <a href="https://github.com/thecyberfarhan"><img src="assets/panels/connect-github.svg" alt="GitHub" height="104" /></a>
+  <a href="https://tryhackme.com/p/farhan.hussain"><img src="assets/panels/connect-tryhackme.svg" alt="TryHackMe" height="104" /></a>
+  <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="assets/panels/connect-writeups.svg" alt="Writeups" height="104" /></a>
+  <a href="https://thecyberfarhan.github.io"><img src="assets/panels/connect-live.svg" alt="Live TryHackMe stats page" height="104" /></a>
+  <img src="assets/panels/connect-discord.svg" alt="Discord: farhan_31384" height="104" />
 </p>
