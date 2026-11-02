@@ -15,25 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups/blob/main/HackTheBox/archetype_writeup.md"><img src="assets/panels/w-htb-archetype.svg" alt="HTB Archetype writeup" height="48" /></a>
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups/blob/main/HackTheBox/cap_writeup.md"><img src="assets/panels/w-htb-cap.svg" alt="HTB Cap writeup" height="48" /></a>
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups/blob/main/HackTheBox/oopsie_writeup.md"><img src="assets/panels/w-htb-oopsie.svg" alt="HTB Oopsie writeup" height="48" /></a>
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups/blob/main/TryHackme/mrrobot_writeup.md"><img src="assets/panels/w-thm-mr-robot.svg" alt="THM Mr Robot writeup" height="48" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups/blob/main/TryHackme/picklerick_writeup.md"><img src="assets/panels/w-thm-pickle-rick.svg" alt="THM Pickle Rick writeup" height="48" /></a>
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups/blob/main/TryHackme/overpass_writeup.md"><img src="assets/panels/w-thm-overpass.svg" alt="THM Overpass writeup" height="48" /></a>
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups/blob/main/TryHackme/blog_writeup.md"><img src="assets/panels/w-thm-blog.svg" alt="THM Blog writeup" height="48" /></a>
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups/blob/main/TryHackme/publisher_writeup.md"><img src="assets/panels/w-thm-publisher.svg" alt="THM Publisher writeup" height="48" /></a>
-</p>
-
-<p align="center">
   <img src="assets/panels/contributions.svg" alt="3D contribution skyline: 72 contributions in the last year" width="880" height="330" />
-</p>
-
-<p align="center">
-  <img src="assets/panels/journey.svg" alt="Journey as a branching timeline: Hack The Box, CTF-Writeups and TryHackMe ongoing; CPENT completed; Python security tools planned" width="880" height="420" />
 </p>
 
 <p align="center">
