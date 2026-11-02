@@ -11,11 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="assets/panels/proof.svg" alt="Proof of work: TryHackMe top 3 percent, 100 plus rooms, 37 writeups" width="880" height="176" /></a>
-</p>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/farhan.hussain"><img src="assets/panels/thm-card.svg" alt="TryHackMe profile card: farhan.hussain, top 3 percent, 100 plus rooms, 37 writeups" width="480" height="132" /></a>
+  <a href="https://tryhackme.com/p/farhan.hussain"><img src="assets/panels/proof.svg" alt="Proof of work: TryHackMe profile farhan.hussain, top 3 percent, 100 plus rooms, 37 writeups" width="880" height="250" /></a>
 </p>
 
 <p align="center">
