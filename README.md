@@ -1,10 +1,6 @@
 <h1 align="center">Welcome to my profile</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=00E676&center=true&vCenter=true&width=560&lines=Penetration+Tester+%7C+CPENT+Certified;Web+%26+API+Security;CTF+Player+%7C+TryHackMe+Top+4%25;Building+security+tooling+in+Python" alt="Typing animation" />
-</p>
-
-<p align="center">
   <img src="assets/cpent-badge.png" alt="EC-Council CPENT: Certified Penetration Testing Professional" width="150" />
 </p>
 
@@ -53,24 +49,12 @@ I'm a CPENT-certified penetration tester focused on web and API security. I shar
   <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="assets/badges/ctf-writeups-open.svg" alt="Open CTF-Writeups" height="36" /></a>
 </p>
 
-## Activity
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecyberfarhan&theme=github_dark&title_color=00C853&icon_color=00C853&text_color=c9d1d9&border_color=30363d&chart_color=00C853" alt="GitHub card" />
-</p>
-
 ## Mission 2026
 
-| Goal | Progress | Status |
-|---|---|---|
-| Top 4% on TryHackMe | `██████████` | ✅ Done |
-| Writeups published | `███████░░░` 37 / 50 | 🔄 In progress |
-| TryHackMe rooms | `███████░░░` 100+ / 150 | 🔄 In progress |
-| Top 1% on TryHackMe | `░░░░░░░░░░` | 🔄 In progress |
-| Build security tools in Python | `░░░░░░░░░░` 0 / 5 | ⬜ Planned |
-| Active Directory attacks | `░░░░░░░░░░` | ⬜ Planned |
-| Contribute to open source | `░░░░░░░░░░` | ⬜ Planned |
-| Land a penetration testing role | `░░░░░░░░░░` | 🎯 Target |
+- Reach the top 1% on TryHackMe and complete 150+ rooms
+- Publish 50+ writeups, written like professional pentest reports
+- Build and release security tools in Python
+- Land a penetration testing role
 
 ## Get in touch
 
@@ -81,8 +65,4 @@ I'm a CPENT-certified penetration tester focused on web and API security. I shar
   <a href="https://github.com/thecyberfarhan/CTF-Writeups" title="CTF writeups"><img src="assets/badges/icon-writeups.svg" alt="CTF writeups" title="CTF writeups" height="36" /></a>
   <a href="https://thecyberfarhan.github.io" title="Live page"><img src="assets/badges/icon-live-page.svg" alt="Live page" title="Live page" height="36" /></a>
   <img src="assets/badges/icon-discord.svg" alt="Discord: farhan_31384" title="Discord: farhan_31384" height="36" />
-</p>
-
-<p align="center">
-  <i>"Attackers think in possibilities. Defenders think in controls. Understanding both sides is where real security begins."</i>
 </p>
