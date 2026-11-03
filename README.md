@@ -25,3 +25,15 @@
   <a href="https://github.com/thecyberfarhan/CTF-Writeups"><img src="assets/panels/connect-writeups.svg" alt="Writeups" height="104" /></a>
   <img src="assets/panels/connect-discord.svg" alt="Discord: farhan_31384" height="104" />
 </p>
+
+### Projects
+
+Tools I built and reports I wrote, not just labs I completed. Source and tests on GitHub.
+
+| | |
+| --- | --- |
+| **[reconkit](https://github.com/thecyberfarhan/reconkit)** | Recon automation: threaded port scan, HTTP/security-header probing and subdomain brute force, with a built-in scope guard. Stdlib only, with tests. |
+| **[apicheck](https://github.com/thecyberfarhan/apicheck)** | Web and API misconfiguration checker: headers, cookies, CORS, leftover sensitive files, directory listing, verbose errors, auth comparison. |
+| **[lab-reports](https://github.com/thecyberfarhan/lab-reports)** | Pentest-style report on DVWA (low security): SQL injection, OS command injection and reflected XSS, each with evidence, risk rating and a fix. |
+| **[sherlock](https://github.com/thecyberfarhan/sherlock)** *(fork)* | Fork of a 50k-star username OSINT tool: canary-based confidence verification, auto-retry on transient errors, Markdown export. Two fixes went back upstream as [a real PR](https://github.com/sherlock-project/sherlock/pull/3172). |
+| **[king-phisher](https://github.com/thecyberfarhan/king-phisher)** *(fork)* | Fork of a phishing-campaign toolkit: fixed a Python 3.12+ crash and a SQLAlchemy break the (unmaintained) upstream never got, modernized the dependency set, automated the dev venv. |
