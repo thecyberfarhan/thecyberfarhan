@@ -23,6 +23,8 @@ Based in Pakistan. Labs, public writeups, a repeatable method.
 - Build small Python tools that remove the repetitive parts of recon and testing
 - Send real fixes upstream when I find them, not just fork-and-forget — see Sherlock below
 
+Off the clock I'm still breaking things, just without a client waiting on the report.
+
 ### Skills
 
 **Web & API**
